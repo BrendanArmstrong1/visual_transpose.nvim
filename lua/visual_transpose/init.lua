@@ -5,7 +5,7 @@ M = {}
 M.setup = config.setup
 
 M.transpose_visual_block = function(arg)
-  print("hello world " .. arg)
+  print("hello world")
 end
 
 return M
